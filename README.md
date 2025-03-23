@@ -3,7 +3,7 @@
 ## 📌 Sobre o Projeto
 Este é um sistema web para gerenciamento de um centro de saúde, desenvolvido utilizando **HTML, CSS e JavaScript**. O projeto utiliza **LocalStorage** para armazenar informações sobre clientes e produtos, sem a necessidade de um banco de dados externo.
 
-## 🚀 Funcionalidade
+## 🚀 Funcionalidades
 - Cadastro de clientes e produtos.
 - Carrinho de compras para produtos.
 - Simulação de confirmação de compra.
